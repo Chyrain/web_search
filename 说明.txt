@@ -1,0 +1,1 @@
+blog.sql是数据库新建和两个数据表的新建SQL语句，python爬虫抓取的网页信息就存储在该库和表中，同时是coreseek sphinx的数据源，也是PHP连接mysql的数据库和数据表

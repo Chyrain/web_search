@@ -1,0 +1,7 @@
+说明：
+    本文件夹内容为Coreseek-3.2.14-win32版本的配置完整版，可根据自己需求配置适合自己数据源和API接口，下文是本人的修改说明：
+
+	Coreseek/etc/csft_mysql.conf 是我修改过的配置文件，var/data下存放索引文档，可根据conf文件对mysql数据源建立索引
+	mysql数据源对应的数据表见blog.mysql
+
+	使用文档在官网：http://www.coreseek.cn/docs/coreseek_3.2-sphinx_0.9.9.html
